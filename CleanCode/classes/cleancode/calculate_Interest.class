@@ -1,0 +1,13 @@
+Êþº¾   1    cleancode/calculate_Interest  java/lang/Object <init> ()V Code
+  	   LineNumberTable LocalVariableTable this Lcleancode/calculate_Interest; 
+simpleIntrest (DDD)D@Y       amount D time rate total compoundIntrest
+    java/lang/Math   pow (DD)D 
+SourceFile calculate_Interest.java !               /     *· ±    
+                 
+          i  	   ')kk o9Ž‡'c¯    
+   
+          4      
+                                 u  	   ' oc)¸ k9'g9Ž‡¯    
+       
+        4      
+                               
